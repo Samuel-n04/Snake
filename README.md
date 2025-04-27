@@ -1,1 +1,1 @@
-Install every files in the same directory to avoid error during compilation
+Place all the files in the same directory to avoid errors during compilation.
